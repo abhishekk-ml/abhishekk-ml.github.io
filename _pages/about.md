@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Machine learning researcher</b> at <a href="https://research.google/teams/brain/">Google Brain</a> <span>&#124;</span> Past<span>&#58;</span> <a href="https://research.ibm.com/labs/watson/">IBM TJ Watson Research Center</a> <span>&#47;</span> <a href="https://ml.umd.edu/">UMD</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  <!---address: >
+    <p>Google Brain,</p>
+    <p>Mountain View, CA</p> -->
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research scientist at Google Brain. My research lies in the broad area of machine learning and artificial intelligence. I am particularly interested in designing principled methods for improved robustness and generalization in machine learning, and in generative models of high dimensional data. I am also interested in using generative modeling, aspects of $$p(x)$$, towards improving generalization in discriminative models. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Google, I was at IBM TJ Watson Research Center in Yorktown Heights, NY. Even before that, I graduated with a Ph.D. from Department of Computer Science at University of Maryland in 2013 where my advisor was [Hal Daumé III](http://www.umiacs.umd.edu/~hal). In the distant past, I also spent time working on robust automatic speech recognition during my Masters at [CRSS](http://crss.utdallas.edu), advised by [John H. L. Hansen](http://www.utdallas.edu/~john.hansen).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
