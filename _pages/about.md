@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Machine learning researcher</b> at <a href="https://research.google/teams/brain/">Google Brain</a> <span>&#124;</span> Past<span>&#58;</span> <a href="https://research.ibm.com/labs/watson/">IBM TJ Watson Research Center</a> <span>&#47;</span> <a href="https://ml.umd.edu/">UMD</a>
+subtitle: <b>Machine learning research</b> at <a href="https://research.google/teams/brain/">Google Brain</a> <span>&#124;</span> Past<span>&#58;</span> <a href="https://research.ibm.com/labs/watson/">IBM TJ Watson Research Center</a> <span>&#47;</span> <a href="https://ml.umd.edu/">UMD</a>
 
 profile:
   align: right
