@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: 
 
-years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2013, 2012, 2011, 2010, 2009, 2008]
 topics: [Distribution or task shift, Generative models, Matrix factorization, Inducive bias, Multitask learning, Multi-modal learning, Deep learning (other)]
 nav: true
 nav_order: 1
