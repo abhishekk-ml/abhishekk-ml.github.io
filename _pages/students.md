@@ -10,14 +10,14 @@ nav_order: 2
 I have had the pleasure of mentoring and collaborating with several talented graduate students in the past:  
 
 
-- Tyler LaBonte (Georgia Tech), 2022
+- Tyler LaBonte (Georgia Tech), 2022 -
 
 - Jiaheng Wei (UC Santa Cruz), 2022   
 
 - Yatong Chen (UC Santa Cruz), 2022   
 [Fast Implicit Constrained Optimization of Non-decomposable Objectives for Deep Networks](https://openreview.net/forum?id=u8kFmPafOc)   
 
-- Kushagra Pandey (IIT Kanpur / UC Irvine), 2021   
+- Kushagra Pandey (IIT Kanpur / UC Irvine), 2021 - 
 [DiffuseVAE: Efficient, controllable and high-fidelity generation from low-dimensional latents](http://arxiv.org/abs/2201.00308)   
 
 - Yatin Dandi (IIT Kanpur), 2020    
