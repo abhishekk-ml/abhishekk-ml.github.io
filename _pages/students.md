@@ -10,14 +10,19 @@ nav_order: 2
 I have had the pleasure of mentoring and collaborating with several talented graduate students in the past:  
 
 
-- Tyler LaBonte (Georgia Tech), 2022 -
+- Litu Rout (UT Austin), 2023
+[Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion](https://arxiv.org/abs/2312.00852)
+
+- Tyler LaBonte (Georgia Tech), 2022 -- now
+[Towards Last-layer Retraining for Group Robustness with Fewer Annotations](https://arxiv.org/abs/2309.08534)
 
 - Jiaheng Wei (UC Santa Cruz), 2022   
+[Distributionally robust posthoc classifiers under prior shift](https://arxiv.org/abs/2309.08825)
 
 - Yatong Chen (UC Santa Cruz), 2022   
 [Fast Implicit Constrained Optimization of Non-decomposable Objectives for Deep Networks](https://openreview.net/forum?id=u8kFmPafOc)   
 
-- Kushagra Pandey (IIT Kanpur / UC Irvine), 2021 - 
+- Kushagra Pandey (IIT Kanpur / UC Irvine), 2021 - 2022 
 [DiffuseVAE: Efficient, controllable and high-fidelity generation from low-dimensional latents](http://arxiv.org/abs/2201.00308)   
 
 - Yatin Dandi (IIT Kanpur), 2020    

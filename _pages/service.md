@@ -7,7 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-I have organized workshops and served in the program committee as an area chair in several recent machine learning conferences. 
+I have organized workshops and served in the program committee as an area chair in several recent machine learning conferences. I am also currently serving as an [Action Editor for TMLR](https://jmlr.org/tmlr/editorial-board.html). 
+
+#### 2024
+- Area Chair ICLR 2024
 
 #### 2023
 - Area Chair ICLR 2023
