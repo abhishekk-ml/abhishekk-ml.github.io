@@ -11,7 +11,7 @@ I have had the pleasure of mentoring and collaborating with several talented gra
 
 
 - Litu Rout (UT Austin), 2023   
-[Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion](https://arxiv.org/abs/2312.00852)
+[Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion](https://stsl-inverse-edit.github.io/)
 
 - Tyler LaBonte (Georgia Tech), 2022 -- now    
 [Towards Last-layer Retraining for Group Robustness with Fewer Annotations](https://arxiv.org/abs/2309.08534), NeurIPS 2023  
