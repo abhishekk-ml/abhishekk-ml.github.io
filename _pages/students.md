@@ -14,16 +14,16 @@ I have had the pleasure of mentoring and collaborating with several talented gra
 [Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion](https://arxiv.org/abs/2312.00852)
 
 - Tyler LaBonte (Georgia Tech), 2022 -- now    
-[Towards Last-layer Retraining for Group Robustness with Fewer Annotations](https://arxiv.org/abs/2309.08534)
+[Towards Last-layer Retraining for Group Robustness with Fewer Annotations](https://arxiv.org/abs/2309.08534), NeurIPS 2023  
 
 - Jiaheng Wei (UC Santa Cruz), 2022   
-[Distributionally robust posthoc classifiers under prior shift](https://arxiv.org/abs/2309.08825)
+[Distributionally robust posthoc classifiers under prior shift](https://arxiv.org/abs/2309.08825), ICLR 2023  
 
 - Yatong Chen (UC Santa Cruz), 2022   
 [Fast Implicit Constrained Optimization of Non-decomposable Objectives for Deep Networks](https://openreview.net/forum?id=u8kFmPafOc)   
 
 - Kushagra Pandey (IIT Kanpur / UC Irvine), 2021 -- 2022   
-[DiffuseVAE: Efficient, controllable and high-fidelity generation from low-dimensional latents](http://arxiv.org/abs/2201.00308)   
+[DiffuseVAE: Efficient, controllable and high-fidelity generation from low-dimensional latents](http://arxiv.org/abs/2201.00308), TMLR 2022     
 
 - Yatin Dandi (IIT Kanpur), 2020    
 [Generalized adversarially learned inference](http://arxiv.org/abs/2006.08089), AAAI 2021   
