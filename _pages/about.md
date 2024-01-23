@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Machine learning research</b> at <a href="https://research.google/teams/brain/">Google Brain</a> 
+# subtitle: <b>Machine learning research</b> at <a href="https://research.google/teams/brain/">Google Brain</a> 
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at Google Brain. My research lies in the broad area of machine learning and artificial intelligence. I am particularly interested in designing principled methods for improved robustness and generalization in machine learning, and in generative models of high dimensional data. 
+I am a research scientist at Google Brain. My research lies in the broad area of artificial intelligence and machine learning. I am particularly interested in generative models of high dimensional data, and in designing principled methods for improved robustness and generalization in machine learning.
 
-Before Google, I was a research staff member at IBM TJ Watson Research Center in Yorktown Heights, NY. Even before that, I graduated with a Ph.D. from Department of Computer Science at University of Maryland where my advisor was [Hal Daumé III](http://www.umiacs.umd.edu/~hal). I also spent time working on robust automatic speech recognition during my Masters at [CRSS](http://crss.utdallas.edu), advised by [John H. L. Hansen](http://www.utdallas.edu/~john.hansen).
+Before Google, I was a researcher at IBM TJ Watson Research Center in Yorktown Heights, NY. Even before that, I graduated with a Ph.D. from Department of Computer Science at University of Maryland where my advisor was [Hal Daumé III](http://www.umiacs.umd.edu/~hal). I also spent time working on robust automatic speech recognition during my Masters at [CRSS](http://crss.utdallas.edu), advised by [John H. L. Hansen](http://www.utdallas.edu/~john.hansen).
 
