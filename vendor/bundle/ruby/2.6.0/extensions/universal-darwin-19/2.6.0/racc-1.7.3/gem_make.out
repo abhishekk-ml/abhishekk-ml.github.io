@@ -1,0 +1,12 @@
+current directory: /Users/abhishek/webpage/abhishekk-ml.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240123-92026-b93q4z.rb extconf.rb
+creating Makefile
+
+current directory: /Users/abhishek/webpage/abhishekk-ml.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/abhishek/webpage/abhishekk-ml.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+make: *** No rule to make target `/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/universal-darwin19/ruby/config.h', needed by `cparse.o'.  Stop.
+
+make failed, exit code 2
